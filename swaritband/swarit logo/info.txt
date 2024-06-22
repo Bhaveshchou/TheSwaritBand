@@ -1,0 +1,14 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: acre-medium
+font link: https://www.fontspring.com/fonts/jonathan-ball/acre/acre-medium
+font author: Jonathan Ball
+font author site: https://jonathanballdesign.com/index.php
+
+
+icon designer: Alfredo @ IconsAlfredo.us
+icon designer link: /AlfredoCreates
+        
+{"bg":"#F2EDED","icon-gradient-0":"#5A0E1D","icon-gradient-1":"#B39984","font":"#362120","slogan":"#4a3534"}
+      
